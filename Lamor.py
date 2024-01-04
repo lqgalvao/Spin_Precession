@@ -212,3 +212,4 @@ plt.show()
 
 
 #olha que coisa boa 
+#outra coisa
