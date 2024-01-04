@@ -209,3 +209,6 @@ plt.show()
 # \end{equation}
 # 
 # $\forall \ \ \omega_0 t = n \pi \ \ $, onde $n \in \mathbb{Z}$
+
+
+#olha que coisa boa 
